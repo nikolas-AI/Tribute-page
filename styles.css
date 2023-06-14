@@ -52,6 +52,30 @@ html {
     margin-bottom: 20px;
 }
 
+.quote {
+    text-align: center;
+    font-style: italic;
+    font-size: 19px;
+    max-width: 700px;
+    margin: auto;
+    margin-top: 20px;
+}
+.info {
+    width: 70%;
+    margin: auto;
+    background-color: rgb(160, 162, 164);
+    border-radius: 40px;
+    font-family:sans-serif;
+    margin-bottom: 10px;
+    padding: 15px;
+    border: 5px double rgb(110, 115, 110);
+    box-shadow: 5px 5px 5px;
+}
+
+.info span {
+    font-weight: bold;
+}
+
 .link {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: center;
@@ -59,13 +83,7 @@ html {
     font-size: large;
 }
 
-.info {
-    width: 70%;
-    margin: auto;
-    background-color: rgb(160, 162, 164);
-    font-family:sans-serif;
-    margin-bottom: 10px;
-}
-.info span {
-    font-weight: bold;
+footer {
+    text-align: center;
+    background-color: #5f5b5b;
 }
