@@ -45,15 +45,27 @@ html {
 }
 #tribute-info {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 700px;
+    max-width: 90%;
+    text-align: center;
+    margin: auto;
     margin-bottom: 20px;
 }
 
 .link {
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding: 10px 0;
+    font-size: large;
 }
 
+.info {
+    width: 70%;
+    margin: auto;
+    background-color: rgb(160, 162, 164);
+    font-family:sans-serif;
+    margin-bottom: 10px;
+}
 .info span {
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: large;
     font-weight: bold;
 }
