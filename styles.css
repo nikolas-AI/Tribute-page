@@ -52,14 +52,6 @@ html {
     margin-bottom: 20px;
 }
 
-.quote {
-    text-align: center;
-    font-style: italic;
-    font-size: 19px;
-    max-width: 700px;
-    margin: auto;
-    margin-top: 20px;
-}
 .info {
     width: 70%;
     margin: auto;
@@ -74,6 +66,15 @@ html {
 
 .info span {
     font-weight: bold;
+}
+
+.quote {
+    text-align: center;
+    font-style: italic;
+    font-size: 19px;
+    max-width: 700px;
+    margin: auto;
+    margin-top: 20px;
 }
 
 .link {
